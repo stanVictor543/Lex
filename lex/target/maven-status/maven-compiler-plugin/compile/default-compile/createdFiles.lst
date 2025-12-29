@@ -1,0 +1,13 @@
+lex\application\data\UserRepo.class
+lex\application\model\Movie.class
+lex\application\model\User.class
+lex\application\presentation\MainView.class
+lex\application\App.class
+lex\application\logic\MovieService.class
+lex\application\presentation\LoginView.class
+lex\application\data\MovieRepo.class
+module-info.class
+lex\application\Launcher.class
+lex\application\presentation\MainView$1.class
+lex\application\logic\AuthService.class
+lex\application\logic\InvalidMovieDataException.class
